@@ -1,2 +1,2 @@
-# Cpts_322
+# Software Engineering
 Project
